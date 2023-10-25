@@ -14,7 +14,7 @@
  </p>
 
 <div align="center">
-<h3><img src=icon2.png width="30"> |🤖 Trishul Nayak |  💻 Full Stack Developer |🛸 Odisha, India<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"width="30"><img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="100"></h3>
+<h3><img src=icon2.png width="30"> |🤖 Trishul Nayak |  💻 Full Stack Developer |🛸 Odisha, India<img src=""width="30"><img src="" width="100"></h3>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=trish145.trish145)
 
